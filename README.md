@@ -2,6 +2,10 @@
 
 **Hack Invaders** to dynamiczna gra webowa z segmentu arcade, stworzona z myślą o graczach, którzy cenią sobie ciągłą akcję i szybkie nagrody. Nasz projekt nie jest tylko grą – to starannie zaprojektowany model angażujący, mający na celu wywoływanie szybkich **wybuchów dopaminowych** i maksymalizowanie retencji.
 
+# OVERVIEW
+
+![Demonstracja rozgrywki Hack Invaders](/Hack_invaders_game/frontend/assets/film.gif)
+
 ## ✨ Kluczowy Model Biznesowy: Play-to-Earn (P2E)
 
 ### 💎 Diamenty – Waluta Przyszłości

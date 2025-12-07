@@ -4,7 +4,7 @@
 
 # OVERVIEW
 
-![Demonstracja rozgrywki Hack Invaders](/Hack_invaders_game/frontend/assets/film.gif)
+![Demonstracja rozgrywki Hack Invaders](assets/film.gif)
 
 ## ✨ Kluczowy Model Biznesowy: Play-to-Earn (P2E)
 
